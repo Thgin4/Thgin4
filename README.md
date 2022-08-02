@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning graphic design
 - 💞️ I’m looking to collaborate on canva
 
-- 📫 How to reach me 6111120007@dru.ac.th
+- 📫 How to reach me
 
 <!---
 Thgin4/Thgin4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
